@@ -8,8 +8,24 @@ sites:
     check: "tcp-ping"
     url: $MINECRAFT_SERVER
     port: 25565
-  - name: Login
+  - name: Mojang Login
     url: https://authserver.mojang.com/
+  - name: Discord API
+    url: https://discord.com/api/users/@me
+    expectedStatusCodes:
+      - 401
+  - name: Patreon API
+    url: https://www.patreon.com/api/oauth2/v2/campaigns/0/members
+    expectedStatusCodes:
+      - 401
+  - name: Twitch Subscriptions API
+    url: https://api.twitch.tv/helix/subscriptions
+    expectedStatusCodes:
+      - 401
+  - name: YouTube Channels API
+    url: https://www.googleapis.com/youtube/v3/channels
+    expectedStatusCodes:
+      - 403
 
 status-website:
   cname: status.minecraftauth.me
