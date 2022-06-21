@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/minecraftauth.me",
     "slug": "site",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 234,
     "timeDay": 312,
     "timeWeek": 213,
     "timeMonth": 199,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2022-06-21": 19
+      "2022-06-21": 31
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://discord.com/api/users/@me",
     "icon": "https://favicons.githubusercontent.com/discord.com",
     "slug": "discord-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 121,
-    "timeDay": 120,
-    "timeWeek": 124,
-    "timeMonth": 120,
-    "timeYear": 121,
+    "time": 120,
+    "timeDay": 107,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 120,
     "dailyMinutesDown": {
-      "2022-06-21": 18
+      "2022-06-21": 19
     }
   },
   {
@@ -82,7 +82,7 @@
     "url": "https://www.patreon.com/api/oauth2/v2/campaigns/0/members",
     "icon": "https://favicons.githubusercontent.com/www.patreon.com",
     "slug": "patreon-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "99.49%",
