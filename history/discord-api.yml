@@ -1,7 +1,7 @@
 url: https://discord.com/api/users/@me
-status: down
-code: 500
-responseTime: 67
-lastUpdated: 2022-06-21T07:03:45.157Z
+status: up
+code: 401
+responseTime: 151
+lastUpdated: 2022-06-21T07:12:47.335Z
 startTime: Thu Mar 10 2022 23:11:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
