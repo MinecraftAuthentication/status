@@ -4,9 +4,9 @@
     "url": "https://minecraftauth.me/",
     "icon": "https://favicons.githubusercontent.com/minecraftauth.me",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 213,
     "timeMonth": 199,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Minecraft",
@@ -60,36 +62,39 @@
     "url": "https://discord.com/api/users/@me",
     "icon": "https://favicons.githubusercontent.com/discord.com",
     "slug": "discord-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 163,
-    "timeWeek": 132,
-    "timeMonth": 122,
+    "timeDay": 128,
+    "timeWeek": 127,
+    "timeMonth": 121,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Patreon API",
     "url": "https://www.patreon.com/api/oauth2/v2/campaigns/0/members",
     "icon": "https://favicons.githubusercontent.com/www.patreon.com",
     "slug": "patreon-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 286,
-    "timeDay": 142,
-    "timeWeek": 1306,
-    "timeMonth": 505,
-    "timeYear": 286,
+    "time": 285,
+    "timeDay": 141,
+    "timeWeek": 1190,
+    "timeMonth": 495,
+    "timeYear": 285,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-16": 33
     }
   },
