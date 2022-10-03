@@ -2,7 +2,7 @@
   {
     "name": "Site",
     "url": "https://minecraftauth.me/",
-    "icon": "https://favicons.githubusercontent.com/minecraftauth.me",
+    "icon": "https://icons.duckduckgo.com/ip3/minecraftauth.me.ico",
     "slug": "site",
     "status": "up",
     "uptime": "99.83%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.83%",
     "time": 217,
-    "timeDay": 250,
-    "timeWeek": 202,
-    "timeMonth": 226,
+    "timeDay": 85,
+    "timeWeek": 197,
+    "timeMonth": 219,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-09-19": 286,
@@ -26,7 +26,7 @@
   {
     "name": "Minecraft",
     "url": "$MINECRAFT_SERVER",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft",
     "status": "up",
     "uptime": "99.90%",
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.90%",
-    "time": 55,
-    "timeDay": 85,
-    "timeWeek": 63,
-    "timeMonth": 68,
-    "timeYear": 55,
+    "time": 54,
+    "timeDay": 27,
+    "timeWeek": 64,
+    "timeMonth": 67,
+    "timeYear": 54,
     "dailyMinutesDown": {
       "2022-09-19": 285
     }
@@ -46,7 +46,7 @@
   {
     "name": "Mojang Login",
     "url": "https://authserver.mojang.com/",
-    "icon": "https://favicons.githubusercontent.com/authserver.mojang.com",
+    "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-login",
     "status": "up",
     "uptime": "99.97%",
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 210,
-    "timeDay": 123,
-    "timeWeek": 138,
-    "timeMonth": 153,
-    "timeYear": 210,
+    "time": 209,
+    "timeDay": 38,
+    "timeWeek": 131,
+    "timeMonth": 147,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2022-03-16": 87
     }
@@ -66,7 +66,7 @@
   {
     "name": "Discord API",
     "url": "https://discord.com/api/users/@me",
-    "icon": "https://favicons.githubusercontent.com/discord.com",
+    "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord-api",
     "status": "up",
     "uptime": "99.99%",
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 127,
-    "timeDay": 124,
-    "timeWeek": 129,
-    "timeMonth": 131,
+    "timeDay": 84,
+    "timeWeek": 131,
+    "timeMonth": 128,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2022-06-21": 18
@@ -86,7 +86,7 @@
   {
     "name": "Patreon API",
     "url": "https://www.patreon.com/api/oauth2/v2/campaigns/0/members",
-    "icon": "https://favicons.githubusercontent.com/www.patreon.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.patreon.com.ico",
     "slug": "patreon-api",
     "status": "up",
     "uptime": "99.98%",
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 260,
-    "timeDay": 159,
-    "timeWeek": 232,
-    "timeMonth": 222,
+    "timeDay": 214,
+    "timeWeek": 225,
+    "timeMonth": 225,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2022-06-21": 18,
@@ -107,7 +107,7 @@
   {
     "name": "Twitch Subscriptions API",
     "url": "https://api.twitch.tv/helix/subscriptions",
-    "icon": "https://favicons.githubusercontent.com/api.twitch.tv",
+    "icon": "https://icons.duckduckgo.com/ip3/api.twitch.tv.ico",
     "slug": "twitch-subscriptions-api",
     "status": "up",
     "uptime": "100.00%",
@@ -116,16 +116,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 82,
-    "timeWeek": 115,
-    "timeMonth": 115,
+    "timeDay": 108,
+    "timeWeek": 114,
+    "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
     "name": "YouTube Channels API",
     "url": "https://www.googleapis.com/youtube/v3/channels",
-    "icon": "https://favicons.githubusercontent.com/www.googleapis.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.googleapis.com.ico",
     "slug": "you-tube-channels-api",
     "status": "up",
     "uptime": "100.00%",
@@ -134,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 83,
-    "timeWeek": 65,
-    "timeMonth": 63,
+    "timeDay": 35,
+    "timeWeek": 66,
+    "timeMonth": 62,
     "timeYear": 66,
     "dailyMinutesDown": {}
   }
