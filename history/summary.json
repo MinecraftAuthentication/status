@@ -109,18 +109,20 @@
     "url": "https://api.twitch.tv/helix/subscriptions",
     "icon": "https://icons.duckduckgo.com/ip3/api.twitch.tv.ico",
     "slug": "twitch-subscriptions-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 102,
-    "timeWeek": 109,
-    "timeMonth": 112,
-    "timeYear": 118,
-    "dailyMinutesDown": {}
+    "time": 117,
+    "timeDay": 75,
+    "timeWeek": 101,
+    "timeMonth": 110,
+    "timeYear": 117,
+    "dailyMinutesDown": {
+      "2022-10-20": 0
+    }
   },
   {
     "name": "YouTube Channels API",
