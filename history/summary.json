@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 216,
-    "timeDay": 278,
-    "timeWeek": 240,
-    "timeMonth": 200,
+    "timeDay": 247,
+    "timeWeek": 237,
+    "timeMonth": 204,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2022-09-19": 286,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 55,
-    "timeDay": 89,
-    "timeWeek": 69,
-    "timeMonth": 61,
-    "timeYear": 55,
+    "time": 56,
+    "timeDay": 149,
+    "timeWeek": 85,
+    "timeMonth": 65,
+    "timeYear": 56,
     "dailyMinutesDown": {
       "2022-09-19": 285
     }
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 207,
-    "timeDay": 303,
-    "timeWeek": 184,
-    "timeMonth": 165,
+    "timeDay": 202,
+    "timeWeek": 185,
+    "timeMonth": 170,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2022-03-16": 87
@@ -76,8 +76,8 @@
     "uptimeYear": "99.99%",
     "time": 128,
     "timeDay": 136,
-    "timeWeek": 140,
-    "timeMonth": 131,
+    "timeWeek": 142,
+    "timeMonth": 133,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2022-06-21": 18
@@ -95,8 +95,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 256,
-    "timeDay": 103,
-    "timeWeek": 207,
+    "timeDay": 238,
+    "timeWeek": 202,
     "timeMonth": 211,
     "timeYear": 256,
     "dailyMinutesDown": {
@@ -111,13 +111,13 @@
     "slug": "twitch-subscriptions-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 104,
-    "timeWeek": 111,
+    "timeDay": 108,
+    "timeWeek": 108,
     "timeMonth": 112,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -136,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 79,
-    "timeWeek": 82,
-    "timeMonth": 68,
+    "timeDay": 57,
+    "timeWeek": 84,
+    "timeMonth": 67,
     "timeYear": 66,
     "dailyMinutesDown": {}
   }
