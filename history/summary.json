@@ -12,7 +12,7 @@
     "uptimeYear": "99.89%",
     "time": 213,
     "timeDay": 245,
-    "timeWeek": 182,
+    "timeWeek": 163,
     "timeMonth": 210,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeYear": "99.94%",
     "time": 59,
     "timeDay": 77,
-    "timeWeek": 71,
+    "timeWeek": 70,
     "timeMonth": 78,
     "timeYear": 59,
     "dailyMinutesDown": {
@@ -56,7 +56,7 @@
     "uptimeYear": "99.97%",
     "time": 201,
     "timeDay": 487,
-    "timeWeek": 211,
+    "timeWeek": 207,
     "timeMonth": 216,
     "timeYear": 201,
     "dailyMinutesDown": {
@@ -77,7 +77,7 @@
     "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 117,
-    "timeWeek": 111,
+    "timeWeek": 110,
     "timeMonth": 123,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -97,7 +97,7 @@
     "uptimeYear": "99.97%",
     "time": 308,
     "timeDay": 153,
-    "timeWeek": 187,
+    "timeWeek": 201,
     "timeMonth": 661,
     "timeYear": 308,
     "dailyMinutesDown": {
@@ -113,17 +113,16 @@
     "slug": "twitch-subscriptions-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
     "timeDay": 54,
-    "timeWeek": 103,
+    "timeWeek": 109,
     "timeMonth": 121,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2023-01-19": 13,
       "2022-10-20": 38
     }
   },
