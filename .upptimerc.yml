@@ -26,7 +26,11 @@ sites:
     url: https://www.googleapis.com/youtube/v3/channels
     expectedStatusCodes:
       - 403
-
+  - name: Glimpse Sponsorship API
+    url: https://api.glimpse.me/auth/access/me
+    expectedStatusCodes:
+      - 401
+https://api.glimpse.me/auth/authorize
 status-website:
   cname: status.minecraftauth.me
   logoUrl: https://minecraftauth.me/favicon.png
