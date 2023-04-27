@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.glimpse.me.ico",
     "slug": "glimpse-sponsorship-api",
     "status": "down",
-    "uptime": "5.44%",
-    "uptimeDay": "5.44%",
-    "uptimeWeek": "5.44%",
-    "uptimeMonth": "5.44%",
-    "uptimeYear": "5.44%",
+    "uptime": "1.15%",
+    "uptimeDay": "1.15%",
+    "uptimeWeek": "1.15%",
+    "uptimeMonth": "1.15%",
+    "uptimeYear": "1.15%",
     "time": 182,
     "timeDay": 182,
     "timeWeek": 182,
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2023-04-27": 0
+      "2023-04-27": 1
     }
   }
 ]
