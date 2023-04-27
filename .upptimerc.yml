@@ -30,7 +30,7 @@ sites:
     url: https://api.glimpse.me/auth/access/me
     expectedStatusCodes:
       - 401
-https://api.glimpse.me/auth/authorize
+
 status-website:
   cname: status.minecraftauth.me
   logoUrl: https://minecraftauth.me/favicon.png
