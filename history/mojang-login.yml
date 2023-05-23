@@ -1,7 +1,7 @@
 url: https://authserver.mojang.com/
-status: down
-code: 500
-responseTime: 403
-lastUpdated: 2023-05-23T09:26:07.743Z
+status: up
+code: 200
+responseTime: 181
+lastUpdated: 2023-05-23T09:32:32.047Z
 startTime: Thu Mar 10 2022 23:11:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
