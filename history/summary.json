@@ -72,9 +72,9 @@
     "url": "https://discord.com/api/users/@me",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,6 +84,7 @@
     "timeMonth": 112,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2023-06-13": 0,
       "2022-06-21": 18
     }
   },
@@ -153,11 +154,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.glimpse.me.ico",
     "slug": "glimpse-sponsorship-api",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.33%",
     "time": 299,
     "timeDay": 222,
     "timeWeek": 282,
