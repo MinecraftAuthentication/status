@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 215,
-    "timeDay": 100,
-    "timeWeek": 173,
-    "timeMonth": 236,
-    "timeYear": 210,
+    "timeDay": 99,
+    "timeWeek": 158,
+    "timeMonth": 232,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2023-04-18": 147,
       "2023-04-16": 61,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 63,
-    "timeDay": 39,
+    "timeDay": 38,
     "timeWeek": 56,
-    "timeMonth": 77,
-    "timeYear": 67,
+    "timeMonth": 76,
+    "timeYear": 66,
     "dailyMinutesDown": {
       "2023-04-18": 146,
       "2022-09-19": 285
@@ -58,9 +58,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 109,
-    "timeWeek": 150,
-    "timeMonth": 330,
+    "timeDay": 111,
+    "timeWeek": 148,
+    "timeMonth": 332,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2022-12-06": 27
@@ -79,9 +79,9 @@
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 79,
-    "timeWeek": 110,
-    "timeMonth": 115,
-    "timeYear": 122,
+    "timeWeek": 106,
+    "timeMonth": 116,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 266,
-    "timeDay": 245,
-    "timeWeek": 195,
-    "timeMonth": 181,
+    "timeDay": 211,
+    "timeWeek": 201,
+    "timeMonth": 183,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2023-01-04": 67
@@ -116,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 185,
-    "timeWeek": 154,
-    "timeMonth": 134,
+    "timeDay": 161,
+    "timeWeek": 158,
+    "timeMonth": 136,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2022-10-20": 38
@@ -136,7 +136,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 52,
+    "timeDay": 41,
     "timeWeek": 72,
     "timeMonth": 70,
     "timeYear": 68,
@@ -148,16 +148,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.glimpse.me.ico",
     "slug": "glimpse-sponsorship-api",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.65%",
-    "time": 309,
-    "timeDay": 292,
-    "timeWeek": 366,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "uptimeYear": "98.68%",
+    "time": 311,
+    "timeDay": 481,
+    "timeWeek": 373,
+    "timeMonth": 315,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2023-04-27": 1143
     }
