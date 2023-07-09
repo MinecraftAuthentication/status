@@ -68,19 +68,19 @@
     "url": "https://discord.com/api/users/@me",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 119,
-    "timeWeek": 122,
+    "timeDay": 104,
+    "timeWeek": 118,
     "timeMonth": 111,
-    "timeYear": 120,
+    "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-07-09": 0
+      "2023-07-09": 5
     }
   },
   {
