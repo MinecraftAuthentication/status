@@ -66,9 +66,9 @@
     "url": "https://discord.com/api/users/@me",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,7 +77,9 @@
     "timeWeek": 110,
     "timeMonth": 115,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-30": 0
+    }
   },
   {
     "name": "Patreon API",
@@ -143,11 +145,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.glimpse.me.ico",
     "slug": "glimpse-sponsorship-api",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.61%",
     "uptimeMonth": "97.84%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 343,
     "timeDay": 6378,
     "timeWeek": 1093,
