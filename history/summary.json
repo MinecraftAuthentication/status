@@ -46,18 +46,20 @@
     "url": "https://authserver.mojang.com/",
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 286,
-    "timeWeek": 219,
-    "timeMonth": 225,
+    "time": 214,
+    "timeDay": 289,
+    "timeWeek": 228,
+    "timeMonth": 227,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-19": 0
+    }
   },
   {
     "name": "Discord API",
