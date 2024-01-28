@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-login",
     "status": "down",
-    "uptime": "94.22%",
+    "uptime": "94.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.13%",
+    "uptimeYear": "88.96%",
     "time": 210,
     "timeDay": 66,
     "timeWeek": 90,
     "timeMonth": 113,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-01-28": 31,
+      "2024-01-28": 955,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -126,9 +126,9 @@
     "url": "https://www.patreon.com/api/oauth2/v2/campaigns/0/members",
     "icon": "https://icons.duckduckgo.com/ip3/www.patreon.com.ico",
     "slug": "patreon-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,7 +137,9 @@
     "timeWeek": 165,
     "timeMonth": 160,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-28": 0
+    }
   },
   {
     "name": "Twitch Subscriptions API",
