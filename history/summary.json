@@ -58,7 +58,7 @@
     "timeMonth": 113,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-01-28": 1302,
+      "2024-01-28": 1308,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -126,19 +126,19 @@
     "url": "https://www.patreon.com/api/oauth2/v2/campaigns/0/members",
     "icon": "https://icons.duckduckgo.com/ip3/www.patreon.com.ico",
     "slug": "patreon-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 3508,
-    "timeWeek": 1281,
-    "timeMonth": 465,
-    "timeYear": 202,
+    "timeDay": 2660,
+    "timeWeek": 1164,
+    "timeMonth": 455,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-01-28": 0
+      "2024-01-28": 6
     }
   },
   {
