@@ -156,19 +156,19 @@
     "url": "https://www.patreon.com/api/oauth2/v2/campaigns/0/members",
     "icon": "https://icons.duckduckgo.com/ip3/www.patreon.com.ico",
     "slug": "patreon-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 115,
-    "timeWeek": 155,
-    "timeMonth": 179,
+    "timeDay": 147,
+    "timeWeek": 161,
+    "timeMonth": 180,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-04-01": 0
+      "2024-04-01": 12
     }
   },
   {
