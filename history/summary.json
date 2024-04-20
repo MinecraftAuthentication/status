@@ -4,18 +4,20 @@
     "url": "https://minecraftauth.me/",
     "icon": "https://icons.duckduckgo.com/ip3/minecraftauth.me.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 240,
-    "timeWeek": 236,
-    "timeMonth": 334,
-    "timeYear": 223,
-    "dailyMinutesDown": {}
+    "time": 221,
+    "timeDay": 385,
+    "timeWeek": 273,
+    "timeMonth": 340,
+    "timeYear": 224,
+    "dailyMinutesDown": {
+      "2024-04-20": 0
+    }
   },
   {
     "name": "Minecraft",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/authserver.mojang.com.ico",
     "slug": "mojang-login",
     "status": "down",
-    "uptime": "90.90%",
+    "uptime": "90.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
