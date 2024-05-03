@@ -25,19 +25,19 @@
     "url": "$MINECRAFT_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 71,
-    "timeWeek": 34,
-    "timeMonth": 41,
+    "timeDay": 76,
+    "timeWeek": 40,
+    "timeMonth": 42,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2024-05-03": 0
+      "2024-05-03": 6
     }
   },
   {
