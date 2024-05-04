@@ -11,8 +11,8 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 192,
-    "timeWeek": 215,
+    "timeDay": 285,
+    "timeWeek": 218,
     "timeMonth": 339,
     "timeYear": 226,
     "dailyMinutesDown": {
@@ -27,18 +27,16 @@
     "slug": "minecraft",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 76,
-    "timeWeek": 40,
+    "timeDay": 78,
+    "timeWeek": 41,
     "timeMonth": 42,
     "timeYear": 63,
-    "dailyMinutesDown": {
-      "2024-05-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mojang Login",
@@ -55,7 +53,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 211,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2024-02-27": 613,
       "2024-02-26": 1440,
@@ -142,8 +140,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 142,
-    "timeWeek": 118,
+    "timeDay": 136,
+    "timeWeek": 121,
     "timeMonth": 126,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -162,8 +160,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 100,
-    "timeWeek": 82,
+    "timeDay": 130,
+    "timeWeek": 86,
     "timeMonth": 114,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -180,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 54,
-    "timeWeek": 93,
-    "timeMonth": 93,
+    "timeDay": 89,
+    "timeWeek": 99,
+    "timeMonth": 92,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -199,7 +197,7 @@
     "uptimeYear": "100.00%",
     "time": 65,
     "timeDay": 82,
-    "timeWeek": 51,
+    "timeWeek": 53,
     "timeMonth": 66,
     "timeYear": 63,
     "dailyMinutesDown": {}
@@ -216,10 +214,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 326,
-    "timeDay": 191,
-    "timeWeek": 331,
+    "timeDay": 178,
+    "timeWeek": 332,
     "timeMonth": 310,
-    "timeYear": 328,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2024-02-19": 337,
       "2024-01-18": 51,
