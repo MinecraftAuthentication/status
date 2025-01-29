@@ -1,7 +1,7 @@
 url: https://www.googleapis.com/youtube/v3/channels
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-29T05:59:44.729Z
+status: up
+code: 403
+responseTime: 67
+lastUpdated: 2025-01-29T06:21:59.714Z
 startTime: 2022-03-10T23:11:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
