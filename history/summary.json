@@ -144,7 +144,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.95%",
+    "uptimeYear": "91.98%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
@@ -242,9 +242,9 @@
     "url": "https://www.googleapis.com/youtube/v3/channels",
     "icon": "https://icons.duckduckgo.com/ip3/www.googleapis.com.ico",
     "slug": "you-tube-channels-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -253,7 +253,9 @@
     "timeWeek": 89,
     "timeMonth": 79,
     "timeYear": 69,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Glimpse Sponsorship API",
