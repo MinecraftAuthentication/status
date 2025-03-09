@@ -4,18 +4,19 @@
     "url": "https://minecraftauth.me/",
     "icon": "https://icons.duckduckgo.com/ip3/minecraftauth.me.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.42%",
-    "time": 254,
-    "timeDay": 136,
-    "timeWeek": 348,
-    "timeMonth": 278,
+    "time": 255,
+    "timeDay": 300,
+    "timeWeek": 356,
+    "timeMonth": 281,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2025-03-09": 0,
       "2025-03-05": 27,
       "2025-03-02": 24,
       "2025-03-01": 98,
@@ -92,8 +93,7 @@
       "2024-07-10": 37,
       "2024-07-09": 20,
       "2024-07-08": 31,
-      "2024-07-07": 15,
-      "2024-07-06": 17
+      "2024-07-07": 15
     }
   },
   {
