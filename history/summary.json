@@ -4,18 +4,19 @@
     "url": "https://minecraftauth.me/",
     "icon": "https://icons.duckduckgo.com/ip3/minecraftauth.me.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.46%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.42%",
-    "time": 255,
-    "timeDay": 299,
-    "timeWeek": 292,
-    "timeMonth": 278,
+    "time": 256,
+    "timeDay": 362,
+    "timeWeek": 301,
+    "timeMonth": 281,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2025-03-12": 0,
       "2025-03-09": 16,
       "2025-03-05": 27,
       "2025-03-02": 24,
@@ -92,8 +93,7 @@
       "2024-07-11": 73,
       "2024-07-10": 37,
       "2024-07-09": 20,
-      "2024-07-08": 31,
-      "2024-07-07": 15
+      "2024-07-08": 31
     }
   },
   {
@@ -163,17 +163,16 @@
     "slug": "discord-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 135,
     "timeDay": 117,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-03-12": 6,
       "2024-10-11": 21
     }
   },
