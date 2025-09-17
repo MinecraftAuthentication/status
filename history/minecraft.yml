@@ -1,7 +1,7 @@
 url: $MINECRAFT_SERVER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-17T05:30:02.469Z
+status: up
+code: 200
+responseTime: 31
+lastUpdated: 2025-09-17T05:39:38.645Z
 startTime: 2022-03-10T23:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
