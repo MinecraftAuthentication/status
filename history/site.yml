@@ -1,7 +1,7 @@
 url: https://minecraftauth.me/
-status: up
-code: 200
-responseTime: 267
-lastUpdated: 2025-11-28T23:17:17.324Z
+status: down
+code: 500
+responseTime: 77
+lastUpdated: 2025-11-28T23:35:17.287Z
 startTime: 2022-03-10T23:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
