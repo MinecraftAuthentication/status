@@ -1,7 +1,7 @@
 url: https://www.patreon.com/api/oauth2/v2/campaigns/0/members
-status: down
-code: 403
-responseTime: 70
-lastUpdated: 2026-01-04T07:52:40.096Z
+status: up
+code: 401
+responseTime: 62
+lastUpdated: 2026-01-04T07:58:34.912Z
 startTime: 2022-03-10T23:11:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
