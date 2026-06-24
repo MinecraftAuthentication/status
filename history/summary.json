@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
     "time": 356,
-    "timeDay": 223,
+    "timeDay": 331,
     "timeWeek": 305,
     "timeMonth": 203,
     "timeYear": 328,
@@ -91,11 +91,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft",
     "status": "down",
-    "uptime": "84.61%",
+    "uptime": "84.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.23%",
+    "uptimeYear": "33.96%",
     "time": 40,
     "timeDay": 0,
     "timeWeek": 0,
@@ -107,7 +107,8 @@
       "2025-08-15": 18,
       "2025-09-02": 20,
       "2025-09-04": 19,
-      "2026-06-23": 120,
+      "2026-06-24": 121,
+      "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -380,10 +381,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 102,
-    "timeWeek": 216,
-    "timeMonth": 153,
-    "timeYear": 164,
+    "timeDay": 159,
+    "timeWeek": 219,
+    "timeMonth": 154,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2025-12-19": 23
     }
@@ -399,11 +400,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 45,
+    "time": 97,
+    "timeDay": 30,
     "timeWeek": 99,
     "timeMonth": 73,
-    "timeYear": 99,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   },
   {
@@ -418,10 +419,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 167,
+    "timeDay": 54,
     "timeWeek": 152,
     "timeMonth": 299,
-    "timeYear": 202,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -436,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 43,
-    "timeWeek": 94,
-    "timeMonth": 72,
-    "timeYear": 92,
+    "timeDay": 68,
+    "timeWeek": 95,
+    "timeMonth": 71,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
@@ -448,18 +449,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.glimpse.me.ico",
     "slug": "glimpse-sponsorship-api",
     "status": "down",
-    "uptime": "60.34%",
+    "uptime": "60.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 372,
+    "time": 374,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 120,
+      "2026-06-24": 121,
+      "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -822,8 +824,7 @@
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
-      "2025-06-25": 1440,
-      "2025-06-24": 1440
+      "2025-06-25": 1440
     }
   }
 ]
