@@ -1,7 +1,7 @@
 url: https://api.twitch.tv/helix/subscriptions
 status: up
 code: 401
-responseTime: 225
-lastUpdated: 2026-07-02T00:10:26.209Z
+responseTime: 99
+lastUpdated: 2026-07-03T00:08:52.425Z
 startTime: 2022-03-10T23:11:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
