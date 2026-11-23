@@ -4,6 +4,11 @@ repo: status
 sites:
   - name: Site
     url: https://minecraftauth.me/
+  - name: API
+    url: https://minecraftauth.me/api/lookup
+    expectedStatusCodes:
+      - 400
+    __dangerous__body_down_if_text_missing: "No identifier given"
   - name: Minecraft
     check: "tcp-ping"
     url: mc.minecraftauth.me
